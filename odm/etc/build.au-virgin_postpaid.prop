@@ -1,0 +1,5 @@
+# Australia VIRGIN_POSTPAID
+ro.vendor.oplus.operator=VIRGIN_POSTPAID
+persist.sys.oppo.region=AU
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=AU

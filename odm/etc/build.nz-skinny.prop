@@ -1,0 +1,6 @@
+# New Zealand SKINNY
+ro.vendor.oplus.operator=SKINNY
+persist.sys.oppo.region=NZ
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=NZ
+ro.vendor.oppo.sim_operator_switch=true

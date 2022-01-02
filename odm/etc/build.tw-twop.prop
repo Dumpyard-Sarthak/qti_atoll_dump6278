@@ -1,0 +1,6 @@
+# Taiwan TWOP
+ro.vendor.oplus.operator=TWOP
+persist.sys.oppo.region=TW
+ro.vendor.oppo.operator_normalize=true
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=TW

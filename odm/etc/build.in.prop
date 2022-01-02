@@ -1,0 +1,5 @@
+# India
+persist.sys.oppo.region=IN
+ro.vendor.oppo.region.netlock=IN
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=IN

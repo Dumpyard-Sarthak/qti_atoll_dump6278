@@ -1,0 +1,6 @@
+# Malaysia MYOP
+ro.vendor.oplus.operator=MYOP
+persist.sys.oppo.region=MY
+ro.vendor.oppo.operator_normalize=true
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=MY

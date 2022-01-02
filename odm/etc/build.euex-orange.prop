@@ -1,0 +1,8 @@
+# Europe ORANGE
+ro.vendor.oppo.opt_enabled=true
+ro.com.google.clientidbase=android-oppo
+ro.product.brand1=Orange
+ro.vendor.oplus.regionmark=EUEX
+ro.vendor.oplus.operator=ORANGE
+ro.com.google.clientidbase.ms=android-orange-{country}-revc
+ro.vendor.oplus.operator_normalize=true

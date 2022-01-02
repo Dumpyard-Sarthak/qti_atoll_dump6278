@@ -1,0 +1,5 @@
+# Turkey
+ro.vendor.oppo.opt_enabled=true
+ro.vendor.oplus.euex.country=TR
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=EUEX

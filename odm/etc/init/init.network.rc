@@ -1,0 +1,38 @@
+#ifdef OPLUS_FEATURE_DEVICE_LOG
+#ZhuYan@NetWork.RF.1139269, 2020/04/28
+#Add for device log on core domain
+service oppo_diag_mdlog_start /system/system_ext/bin/diag_mdlog_system -c -u
+    class late_start
+    user shell
+    group system oem_2901 sdcard_rw sdcard_r media_rw
+    disabled
+    oneshot
+
+service oppo_diag_mdlog_stop /system/system_ext/bin/diag_mdlog_system -k
+    class late_start
+    user shell
+    group system oem_2901 sdcard_rw sdcard_r media_rw
+    disabled
+    oneshot
+
+service oppo_diag_mdlog_nrt /system/system_ext/bin/diag_mdlog_system -c -b -u
+    class late_start
+    user shell
+    group system oem_2901 sdcard_rw sdcard_r media_rw
+    disabled
+    oneshot
+#endif /*OPLUS_FEATURE_DEVICE_LOG*/
+
+#Zhengpeng@NETWORK.RF,1213568,2013/11/4, Add for create opponvitems dir
+on boot
+    mkdir /data/opponvitems  0771 radio radio
+    write /proc/sys/fs/suid_dumpable 1
+    setprop persist.vendor.radio.force_on_dc true
+    chmod 0664 /dev/mdmreason
+    chown system system /dev/mdmreason
+#endif
+
+#LiJingchi@NETWORK.RF,1535107,2018/08/21,Add for update GSM PCL level and state to set charge pump on a fixed freq mode when FTM or GSM voice conversation with high power
+chmod 0664  /proc/da9313/work_mode
+chown radio root  /proc/da9313/work_mode
+

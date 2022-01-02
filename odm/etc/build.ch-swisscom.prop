@@ -1,0 +1,8 @@
+# Switzerland SWISSCOM
+persist.sys.oppo.region=CH
+ro.vendor.oppo.opt_enabled=true
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.euex.country=CH
+ro.vendor.oplus.regionmark=EUEX
+ro.vendor.oplus.operator=SWISSCOM
+ro.oem.key1=SWISSCOM

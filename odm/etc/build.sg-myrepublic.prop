@@ -1,0 +1,6 @@
+# Singapore MyRepublic
+ro.vendor.oplus.operator=MyRepublic
+persist.sys.oppo.region=SG
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=SG
+ro.vendor.oppo.sim_operator_switch=true

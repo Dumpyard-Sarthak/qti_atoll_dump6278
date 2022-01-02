@@ -1,0 +1,6 @@
+# Malaysia MAXIS
+ro.vendor.oplus.operator=MAXIS
+persist.sys.oppo.region=MY
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=MY
+ro.vendor.oppo.sim_operator_switch=true

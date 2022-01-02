@@ -1,0 +1,9 @@
+# Spain VODAFONE_EUEX
+persist.sys.oppo.region=ES
+ro.vendor.oppo.opt_enabled=true
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.euex.country=ES
+ro.vendor.oplus.operator=VODAFONE_EUEX
+ro.vendor.oplus.regionmark=EUEX
+ro.vendor.oplus.sim_operator_switch=true
+ro.com.google.clientidbase.ms=android-vf-{country}-revc

@@ -1,0 +1,6 @@
+# Japan SOFTBANK
+ro.vendor.oplus.operator=SOFTBANK
+persist.sys.oppo.region=JP
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=JP
+ro.com.google.clientidbase.am=android-softbank-jp

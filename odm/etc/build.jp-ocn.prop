@@ -1,0 +1,6 @@
+# Japan OCN
+ro.vendor.oplus.operator=OCN
+persist.sys.oppo.region=JP
+ro.com.google.clientidbase=android-oppo
+ro.oem.key1=OCN
+ro.vendor.oplus.regionmark=JP

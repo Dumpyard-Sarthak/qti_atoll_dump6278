@@ -1,0 +1,6 @@
+# New Zealand WAREHOUSE
+ro.vendor.oplus.operator=WAREHOUSE
+persist.sys.oppo.region=NZ
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=NZ
+ro.vendor.oppo.sim_operator_switch=true

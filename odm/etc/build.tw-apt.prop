@@ -1,0 +1,6 @@
+# Taiwan APT
+ro.vendor.oplus.operator=APT
+persist.sys.oppo.region=TW
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=TW
+ro.vendor.oppo.sim_operator_switch=true

@@ -1,0 +1,6 @@
+# Malaysia DIGI
+ro.vendor.oplus.operator=DIGI
+persist.sys.oppo.region=MY
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=MY
+ro.vendor.oppo.sim_operator_switch=true

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<connectivity_vdf>
+<!-- Albania -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">AL</country_toggle_update>
+<!-- Australia -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">AU</country_toggle_update>
+<!-- Channel Islands (missed) -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">Channel Islands</country_toggle_update>
+<!-- Congo (missed) -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="" gps="">Congo</country_toggle_update>
+<!-- Cyprus -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="on" gps="">CY</country_toggle_update>
+<!-- Czech Republic -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="off">CZ</country_toggle_update>
+<!-- Egypt -->
+<country_toggle_update wifi="" bluetooth="" nfc="" gps="">EG</country_toggle_update>
+<!-- Fiji -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="" gps="">FJ</country_toggle_update>
+<!-- Germany -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="on" gps="">DE</country_toggle_update>
+<!-- Ghana -->
+<country_toggle_update wifi="" bluetooth="off" nfc="off" gps="">GH</country_toggle_update>
+<!-- Global (missed) -->
+<country_toggle_update wifi="" bluetooth="" nfc="" gps="">Global</country_toggle_update>
+<!-- Greece -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">GR</country_toggle_update>
+<!-- Hungary -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">HU</country_toggle_update>
+<!-- Iceland -->
+<country_toggle_update wifi="on" bluetooth="" nfc="on" gps="">IS</country_toggle_update>
+<!-- India -->
+<country_toggle_update wifi="" bluetooth="" nfc="" gps="">IN</country_toggle_update>
+<!-- Ireland -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">IE</country_toggle_update>
+<!-- Italy -->
+<country_toggle_update wifi="" bluetooth="" nfc="" gps="">IT</country_toggle_update>
+<!-- Kenya -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="on" gps="">KE</country_toggle_update>
+<!-- Lesotho -->
+<country_toggle_update wifi="on" bluetooth="on" nfc="on" gps="">LS</country_toggle_update>
+<!-- Malta -->
+<country_toggle_update wifi="" bluetooth="" nfc="" gps="">MT</country_toggle_update>
+<!-- Management (missed) -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="on" gps="on">Management</country_toggle_update>
+<!-- Mozambique -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">MZ</country_toggle_update>
+<!-- Netherlands -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="on" gps="on">NL</country_toggle_update>
+<!-- New Zealand -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">NZ</country_toggle_update>
+<!-- Portugal -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">PT</country_toggle_update>
+<!-- Qatar -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">QA</country_toggle_update>
+<!-- Romania -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="" gps="">RO</country_toggle_update>
+<!-- Solomon Islands -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">SB</country_toggle_update>
+<!-- South Africa -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="off">ZA</country_toggle_update>
+<!-- Spain -->
+<country_toggle_update wifi="on" bluetooth="off" nfc="on" gps="">ES</country_toggle_update>
+<!-- Switzerland -->
+<country_toggle_update wifi="on" bluetooth="off" nfc="off" gps="">CH</country_toggle_update>
+<!-- Taiwan -->
+<country_toggle_update wifi="off" bluetooth="off" nfc="off" gps="">TW</country_toggle_update>
+<!-- Tanzania -->
+<country_toggle_update wifi="" bluetooth="" nfc="" gps="">TZ</country_toggle_update>
+<!-- Turkey -->
+<country_toggle_update wifi="" bluetooth="" nfc="" gps="">TR</country_toggle_update>
+<!-- UK -->
+<country_toggle_update wifi="on" bluetooth="off" nfc="off" gps="on">GB</country_toggle_update>
+<!-- Ukraine -->
+<country_toggle_update wifi="on" bluetooth="off" nfc="" gps="off">UA</country_toggle_update>
+</connectivity_vdf>

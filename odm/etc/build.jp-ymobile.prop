@@ -1,0 +1,5 @@
+# Japan YMOBILE
+ro.vendor.oplus.operator=YMOBILE
+persist.sys.oppo.region=JP
+ro.com.google.clientidbase=android-oppo
+ro.vendor.oplus.regionmark=JP

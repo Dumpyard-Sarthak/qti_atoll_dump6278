@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.201112.002 root05281023 release-keys
+- manufacturer: 
+- platform: atoll
+- codename: atoll
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.201112.002
+- incremental: root05281023
+- tags: release-keys
+- fingerprint: qti/atoll/atoll:11/RKQ1.201112.002/root05281023:user/release-keys
+- is_ab: false
+- brand: qti
+- branch: qssi-user-11-RKQ1.201112.002-root05281023-release-keys
+- repo: qti_atoll_dump6278

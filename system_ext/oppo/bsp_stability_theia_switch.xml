@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<filter-conf>
+    <version>2020042401</version>
+    <isOpen>1</isOpen>
+    <filter-name>bsp_stability_theia_switch</filter-name>
+    <backKey>0</backKey>
+    <bootFailed>0</bootFailed>
+    <appNotResponding>0</appNotResponding>
+    <uiTimeout>1</uiTimeout>
+    <noFocusWindow>1</noFocusWindow>
+</filter-conf>
